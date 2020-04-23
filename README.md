@@ -22,7 +22,7 @@
 
 
 <!-- wp:paragraph -->
-<p>2.  The regions in the thermal image which have red yellow and green are the warmer regions, with red being the hottest.  While, the regions which have light blue, dark blue, purple and black are the cooler regions, with black being the coldest.</p>
+<p>2.  The regions in the thermal image which have red, yellow and green are the warmer regions, with red being the hottest.  While, the regions which have light blue, dark blue, purple and black are the cooler regions, with black being the coldest.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -80,6 +80,8 @@
 <!-- wp:code -->
 <pre class="wp-block-code"><code>Nose</code></pre>
 <!-- /wp:code -->
+
+The app has detected that the oiliest region on my face is the nose.
 
 <!-- wp:heading {"level":3} -->
 <h3>Dataset:</h3>
