@@ -62,7 +62,7 @@
 <!-- /wp:heading -->
 
 <p align="center">
-  <img width="600" height="600" src="http://vinslookbook.com/wp-content/uploads/2019/09/File_001-1.jpeg">
+  <img width="200" height="500" src="http://vinslookbook.com/wp-content/uploads/2019/09/File_001-1.jpeg">
 </p>
 
 <!-- wp:heading {"level":4} -->
@@ -70,7 +70,7 @@
 <!-- /wp:heading -->
 
 <p align="center">
-  <img width="600" height="600" src="http://vinslookbook.com/wp-content/uploads/2019/09/thermal-sample-1.jpg">
+  <img width="200" height="500" src="http://vinslookbook.com/wp-content/uploads/2019/09/thermal-sample-1.jpg">
 </p>
 
 <!-- wp:heading {"level":4} -->
