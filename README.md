@@ -57,21 +57,6 @@
 <p>I do not have access to a thermal camera, so I had to simulate a thermal image using a thermal image effect. Then, I used the app to analyze it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":4} -->
-<h4>Original Image</h4>
-<!-- /wp:heading -->
-
-<p align="center">
-  <img width="400" height="500" src="http://vinslookbook.com/wp-content/uploads/2019/09/File_001-1.jpeg">
-</p>
-
-<!-- wp:heading {"level":4} -->
-<h4>Thermal Image</h4>
-<!-- /wp:heading -->
-
-<p align="center">
-  <img width="400" height="500" src="http://vinslookbook.com/wp-content/uploads/2019/09/thermal-sample-1.jpg">
-</p>
 
 <!-- wp:heading {"level":4} -->
 <h4>Output:</h4>
